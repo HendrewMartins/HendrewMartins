@@ -48,9 +48,6 @@ Também possuo experiência em **Delphi** em cenários legados e migração de s
 - **[Gestor Biblioteca API](#)**  
   API em **Spring Boot + PostgreSQL**, com cadastro de usuários, livros, empréstimos, integração com Google Books e recomendações personalizadas.  
 
-- **[Vigilância](#)**  
-  Sistema em **Java 17 + Quarkus + Angular 18** para gestão de licenças, cadastro de veículos/estabelecimentos e notificações automáticas via e-mail.  
-
 ---
 
 ## 📊 Estatísticas
